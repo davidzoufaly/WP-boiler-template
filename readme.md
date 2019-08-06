@@ -17,3 +17,6 @@ Template for creating custom themes in wordpress from scratch.
 - basic wordpress functions
 - grunt commands for SASS, Babel, minify... (JS, CSS)
 - get ready for new project in two minutes! 
+
+## License
+- MIT
