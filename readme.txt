@@ -1,0 +1,8 @@
+- vytvořit DB
+- vytvořit složku s projektem
+- překopčit WP
+- napárovat DB
+- importovat SQL do DB
+- název šablony - složka
+- popis šablony - style.css
+- testnout grunt
