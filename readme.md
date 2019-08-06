@@ -2,7 +2,7 @@
 Template for creating custom themes in wordpress from scratch.
 
 ## Installation
-- setup apache + mySQL + php enviroment (MAMP, webhosting...)
+- setup apache + mySQL + php environment (MAMP, webhosting...)
 - create MySQL DB
 - create Folder with project
 - copy WP files
