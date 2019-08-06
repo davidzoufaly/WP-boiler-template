@@ -1,7 +1,7 @@
-#Boiler template Wordpress
+# Boiler template Wordpress
 Template for creating custom themes in wordpress from scratch.
 
-##Installation
+## Installation
 - create MySQL
 - create Folder with project
 - copy WP files
@@ -11,7 +11,7 @@ Template for creating custom themes in wordpress from scratch.
 - change theme description in style.css
 - test grunt commands
 
-##Purpose
+## Purpose
 - theme structure
 - basic wordpress functions
 - grunt commands for SASS, Babel, minify... (JS, CSS)
