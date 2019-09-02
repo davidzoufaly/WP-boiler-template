@@ -1,5 +1,5 @@
 # Boiler template Wordpress
-Template for creating custom themes in wordpress from scratch.
+Template for creating custom themes in wordpress almost from scratch.
 
 ## Installation
 - setup apache + mySQL + php environment (MAMP, webhosting...)
@@ -7,7 +7,7 @@ Template for creating custom themes in wordpress from scratch.
 - create folder with project
 - copy WP files
 - setup DP connection in config.php
-- import SQL file into DB
+- import SQL file into DB (optional)
 - change theme folder name
 - change theme description in style.css
 - test grunt commands
